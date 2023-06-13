@@ -7,193 +7,141 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Naing Htoo Aung
+    tagline: Network Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: nainghtoo@tnitech.net
+    phone: 09 4222 190 42
+    timezone: Asia/Rangoon Timezone
+    citizenship: Myanmar (Burma)
+    website: blog.tnitech.net #do not add http://
+    linkedin: nhtooaung
+    xing:
+    github: naing-htoo
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@qmxymxhz'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://nainghtoo.tnitech.net/print
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Burmese
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: English
+          level: Intermediate
 
-        - idiom: Spanish
-          level: Professional
+        - idiom:
+          level:
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Trekking
           link:
 
-        - item: Snowboarding
+        - item: Cycling
           link:
 
-        - item: Cooking
+        - item:
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+Highly skilled and results-driven Technical Operations Manager with a strong background in network engineering, IT infrastructure deployment, and technical support. Proven expertise in managing complex projects, optimizing operations, and delivering exceptional results. Adept at leading cross-functional teams, providing comprehensive technical support, and ensuring seamless network connectivity. Demonstrated ability to drive organizational growth through strategic planning, effective vendor management, and exceptional customer service. Strong track record of success in transitioning wireless networks to fiber infrastructure, managing large-scale deployments, and providing training and support to partners and clients. Complemented by a solid educational foundation in English Literature and extensive certifications in network technologies. Exceptional problem-solving, communication, and leadership skills. Seeking new opportunities to leverage my expertise and contribute to the success of an organization. He is flexible in the workplace, willing to work hard to complete well within the set timeframe, and is also a person who can withstand pressure.
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Diploma in Network Communication | KMD Institute
+        university: Yangon University of Distance Education
+        time: 2019 - 2020
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
+          - Computer System [ Distinction ]
+            - Fundamental of Computer Network [ Distinction ]
+            - Networking Essentials [ Distinction ]
+            - Network Operating System Management [ Credit ]
+            - Practical Project [ Credit ]
+      - degree: English Specialisation [Dropped Out]
         university: Bristol University
-        time: 2007 - 2011
+        time: 2016-2021
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Literature and Linguistics
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Junior Technical Support
+        time: 2019 - 2020
+        company: PRO SYSTEM & NETWORKING Co., LTD
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+
+      - role: Senior Technical Support | Senior Consultant
+        time: 2021 - Now
+        company: PRO SYSTEM & NETWORKING Co., LTD
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+
+      - role: Technical Operations Manager
+        time: 2021 - Now
+        company: KALAW-NET Internet Service Provider
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
+certifications:
+    title: certifications
+      - Mikrotik Certified Network Associate
+      - EnGenius Certified Network Professional
+      - EnGenius Certified Wireless Professional
+      - EnGenius Certified Security Professional
+      - Cambium Connecting U Certified
+      - Cambium System Management Administrator Certified
+      - Certified Secured Computer User | EC-Council
+      - NSE 3 Network Security Associate | Fortinet Trainings
+
+    Additional Training:
+      title: Additional Trainings
+      - Service+ Engineering Course, IMCS
+      - CCNA Training, AMS Training by Aung Naing Moe (CCIE #50505)
+      - Mikrotik Trainings, Information Beam
+
 projects:
-    title: Projects
+    title: Professional Experiences
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Completed Projects
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Mandalay Waterboom & Mandalay Bay Resort
+        link: "https://www.engeniustech.com/casestudies/mandalay-waterboom-park/"
+        tagline: "Crafting a technologically advanced ecosystem for unparalleled guest experiences."
+        details: |
+        - Led the deployment of over 100 IP security cameras using Dahua CCTV Systems, implementing a comprehensive surveillance system for enhanced security and monitoring.
+        - Designed and deployed a redundant fiber ring network using EnGenius Switches, ensuring reliable and high-speed connectivity across the 8-acre resort.
+        - Implemented Mikrotik Routers, EnGenius Wireless Access Points and Switches, optimizing WiFi coverage and network performance for staff and guests.
+        - Integrated Infosat IPTV Systems, enabling seamless streaming of multimedia content throughout the resort.
+        - Deployed Yealink and Yeastar for IPPBX Systems, providing efficient and cost-effective communication solutions for staff and guests.
+        - Implemented a video wall system for effective display and management of visual content.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: EnGenius Myanmar | Technical Support
+        link: "https://www.prosystem.com.mm"
+        tagline: "Providing seamless solutions and exceptional support for EnGenius products."
+        details: |
+        - Provided technical support for EnGenius products, serving as a key contact for partners and clients, and resolving their issues promptly and effectively.
+        - Conducted troubleshooting and issue resolution on-site at partner projects, ensuring the smooth operation of EnGenius networking solutions.
+        - Delivered online and offline training to EnGenius partners, equipping them with the necessary skills and knowledge to effectively deploy and manage EnGenius products.
+        - Earned EnGenius certifications, including EnGenius Certified Network Specialist, EnGenius Certified Wireless Professional, and EnGenius Certified Security Professional, demonstrating your expertise and mastery of EnGenius technologies.
+        - Collaborated closely with partners, distributors, and internal teams to address technical inquiries, provide guidance, and deliver exceptional customer service.
+        - Actively stayed updated with EnGenius product releases, features, and updates, ensuring the ability to provide accurate and relevant technical support to partners and clients.
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
